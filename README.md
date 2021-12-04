@@ -8,7 +8,7 @@ https://adventofcode.com/2021/
 Day 1: **   
 Day 2: **  
 Day 3: **  
-Day 4:  
+Day 4: *   
 Day 5:  
 
 --where * means that I winned one star this day(completed one part of the problem) and ** means that I completed the two both parts of the problem(max punctuation per day).
